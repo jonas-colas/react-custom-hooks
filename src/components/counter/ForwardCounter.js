@@ -1,5 +1,5 @@
 // import { useState, useEffect } from 'react';
-import useCounter from '../hooks/use-counter';
+import useCounter from '../../hooks/use-counter';
 
 import Card from './Card';
 

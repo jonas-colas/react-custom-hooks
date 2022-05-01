@@ -1,6 +1,6 @@
 import React from 'react';
-import BackwardCounter from './components/BackwardCounter';
-import ForwardCounter from './components/ForwardCounter';
+import BackwardCounter from './components/counter/BackwardCounter';
+import ForwardCounter from './components/counter/ForwardCounter';
 
 function App() {
   return (
